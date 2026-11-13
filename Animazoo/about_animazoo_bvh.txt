@@ -1,0 +1,43 @@
+"After 2010, **Animazoo UK Ltd**—the prominent Brighton-based manufacturer of inertial motion capture systems (famous for products like the Gypsy and IGS suit ranges)—went through a period of restructuring, market shifts, and eventual liquidation.
+
+The trajectory of the company, its founder, and its technology after 2010 unfolded across several key milestones:
+
+### 1. Continued Operations and Product Evolution (2010–2012)
+
+Right around 2010, Animazoo was still actively pushing hardware updates, launching products like the **Gypsy 7** motion-capture system and expanding its applications into biomechanics, robotics, and animal motion tracking (such as custom inertial capture suits for greyhounds and horses).
+
+### 2. Financial Restructuring and Closure (2014–2017)
+
+Despite being a pioneer in affordable inertial motion capture, the company faced growing financial pressures as the mocap landscape evolved.
+
+* **November 2014:** Animazoo UK Ltd entered a Company Voluntary Arrangement (CVA), which is an insolvency procedure allowing a company to deal with debt split over an agreed period.
+* **October 2015:** The CVA ultimately failed, transitioning the company into a **creditors' voluntary liquidation**.
+* **January 2017:** Animazoo UK Ltd was formally **dissolved** on the UK Companies House registry.
+
+### 3. Transition to Control VR and Synertial
+
+The core team and leadership behind Animazoo—led by founder **Ali Kord**—did not leave the motion capture or virtual reality space.
+
+* **Control VR (2014):** Key personnel from Animazoo heavily fueled the creation of *Control VR*, a well-known virtual reality data-glove project that launched via a high-profile Kickstarter campaign in 2014, bridging inertial data glove tech into early modern VR development.
+* **Synertial:** Ali Kord transitioned focus heavily toward **Synertial**, an inertial motion capture technology manufacturer positioned as a continuation of his foundational work in motion tracking, expanding tech into medical, industrial, and specialized VR training fields.
+
+### 4. Animalive and Animachat
+
+Parallel to their core mocap hardware development, the team also branched into real-time interactive entertainment software (such as *Animalive* and later *Animachat*), targeting family entertainment centers, theme parks, and live digital mascot broadcasting using automated and performer-driven animation pipelines.
+
+---
+
+\DANCE.BVH"
+
+
+what was the license on their free bvh files? formally found here http://www.freebvh.animazoo.com/
+
+While the specific, exact legal text or end-user license agreement (EULA) from **[http://www.freebvh.animazoo.com/](http://www.freebvh.animazoo.com/)** is largely lost to time due to the company's dissolution and the domain going offline, historical developer forums and community references from the era point to a consistent usage context:
+
+* **Promotional / Marketing Sample Distribution:** Animazoo provided these files primarily as **free sample data** to showcase the capabilities of their motion capture systems (such as the Gypsy and IGS suit ranges) and to help animators test standard BVH file compatibility in 3D software (like LightWave, Blender, and Autodesk packages).
+* **General Practice and Personal Use:** The files were widely treated by the 3D and game development community as free-to-download assets for testing, rigging, and animation prototyping (though tools like *bvhacker* were often needed to adjust Animazoo's unique skeleton hierarchy and axis orientations for platforms like Second Life).
+* **Commercial Restrictions:** Like most promotional or legacy hardware sample libraries of that era (circa late 2000s/early 2010s), they were intended for testing, evaluation, and non-exclusive pipeline integration rather than being packaged or re-sold as standalone commercial motion assets.
+
+Because Animazoo UK Ltd was formally liquidated and dissolved, there is no longer an active entity to enforce copyright claims or provide formal permissions for those legacy sample files.
+
+
