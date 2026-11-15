@@ -9,6 +9,7 @@ clips (Vibecode3D) and skinned bodies (xt3D). Moved out of `LIB_MOCAP/input/BVH`
 | `Animazoo/` | 41 clips (see `about_animazoo_bvh.txt`) |
 | `FreeBVH/` | Truebones FreeBVH collection |
 | `iGame3D/` | iGame3D's own animations, converted to BVH by `LIB_MOCAP/tools/wif.py` |
+| `iGame3D_DeadDays/` | 58 animations from the owner's 2008 DeadDays models (officer, human, zombietobi, robothead, robotheadgun), each on its own 13- or 14-bone rig; made by `LIB_MOCAP/tools/wtf_anim.py` (A-85). The owner's own work; rotation order not yet seen on screen |
 | `iGame3D_2008/` | the 2008 iGame3D BVH scripts and dialogs (parsers, builder, BVH browser, BVH→WIF) |
 
 **Rights:** the Animazoo and Truebones clips are third-party and their licences are not
