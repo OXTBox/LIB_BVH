@@ -19,3 +19,7 @@ until that is cleared.
 Use: `cd ../LIB_MOCAP && python3 -I tools/mocap_lib.py process <Folder>_<file>` (clip names are
 `<folder>_<file name>`, e.g. `Animazoo_gangster_walk`); `mocap_lib.py` reads this folder,
 `../LIB_LLMIN/LIB_MOCAP` (new captures) and `LIB_MOCAP/input`.
+
+## Licence
+
+MIT (see `LICENSE`), Copyright (c) 2026 xAction.
